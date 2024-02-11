@@ -1,0 +1,12 @@
+public class Principal {
+
+	public static void main(String[] args) {
+		System.out.println("Lucas zika do bile");
+		
+		System.out.println(6 + 2);
+		System.out.println(6 - 2);
+		System.out.println(6 * 2);
+		System.out.println(6.0 / 2);
+	}
+
+}
